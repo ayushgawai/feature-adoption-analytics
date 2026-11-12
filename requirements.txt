@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.0
+pyarrow>=14
+duckdb>=0.10
+scikit-learn>=1.4
+scipy>=1.12
+statsmodels>=0.14
+pytest>=8.0
